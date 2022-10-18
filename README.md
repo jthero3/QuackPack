@@ -4,10 +4,10 @@ QuackPack is intended to fill out an often neglected portion of the Kerbolar sys
 
 System expansions such as Outer Planets Mod are a very popular first step, bridging the challenge gap between the stock system and full blown interstellar packs. QuackPack is designed to add an additional level of challenge to a stock + OPM install.  Instead of looking outwards towards other stars, it is time to look inwards towards our own.
 
-These planets are not for the faint of heart.  Transfer requirements are extreme, and their gravity wells are deep.  Gravity assists are a near requirement. Failure lurks around every corner, as the unique thermal environments can cause unexpected problems, or outright destroy craft.  Aerodynamics will work in unusual ways, as the superheated atmospheres are very different from anything else in the Kerbolar system.
+These planets are not for the faint of heart.  Transfer requirements are extreme, and their gravity wells are deep.  Gravity assists are a near requirement. Failure lurks around every corner, as the unique thermal environments can cause unexpected problems, or outright destroy craft.  Aerodynamics will work in unusual ways, as the superheated atmospheres are very different from anything else in the Kerbolar system.  However, with smart design, clever planning, and skill, these bodies can be conquered, even fully reusable, or, theoretically, with single stage craft.
 
 ## Bodies
-* Blas, a metal poor, scorching hot desert Superkerbin with a large ring system and one small moonlet
+* Blas, a metal poor, scorching hot desert Superkerbin with a large ring system and one small moonlet.
 * Geet, the lone moon of Blas, and a shepherd to the ring system.
 * Jot, an inflated hot Jool with an extremely large atmosphere.
 * Cind, a Kerbin sized tidally locked hellworld, with an atmosphere made of sulfur and boiling metal.
