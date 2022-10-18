@@ -35,6 +35,7 @@ These planets are not for the faint of heart.  Transfer requirements are extreme
 ## Requirements
 * [ModuleManager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-18x-112x-module-manager-422-june-18th-2022-the-heatwave-edition/), 4.2.2
 * [Kopernicus](https://forum.kerbalspaceprogram.com/index.php?/topic/200143-180-1123-kopernicus-stable-branch-last-updated-august-12th-2022/), 1.12.1-139
+* [Kopernicus Expansion EmissiveFX](https://forum.kerbalspaceprogram.com/index.php?/topic/195844-110-111-112-alpha-kopernicus-expansion-continued-er/), Beta 9 - 1.11
 * [Community Terrain Texture Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/165873-ksp-15x-community-terrain-textures-pack-104-25-oct-2018/), 1.0.4
 
 ## Recommended Mods
