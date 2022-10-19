@@ -34,8 +34,8 @@ These planets are not for the faint of heart.  Transfer requirements are extreme
 * [Community Terrain Texture Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/165873-ksp-15x-community-terrain-textures-pack-104-25-oct-2018/), 1.0.4
 
 ## Bundled Dependencies
-* [Niako's Kopernicus Utilities](https://forum.kerbalspaceprogram.com/index.php?/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/)
-* [Sigma Heat Shifter](https://github.com/Sigma88/Sigma-HeatShifter)
+* [Niako's Kopernicus Utilities](https://forum.kerbalspaceprogram.com/index.php?/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/), 0.3
+* [Sigma Heat Shifter](https://github.com/Sigma88/Sigma-HeatShifter), v0.1.0
 
 ## Provided Compatibility
 * [Scatterer](https://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip19x-112x-scatterer-atmospheric-scattering-00838-14082022-scattering-improvements-in-game-atmo-generation-and-multi-sun-support/), v0.0838
