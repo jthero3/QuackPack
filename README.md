@@ -23,20 +23,26 @@ These planets are not for the faint of heart.  Transfer requirements are extreme
 * This is my first planet mod, pls be gentle.
 
 ## Installation
-* Extract the zip file
+* Remove any prexisting QuackPack installations (QuackPack folder within GameData folder in KSP directory)
+* Install ALL listed dependencies, following the links bellow
+* Download and extract the QuackPack zip file
 * Place the GameData folder into your KSP directory
-
-## Provided Compatibility
-* [Scatterer](https://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip19x-112x-scatterer-atmospheric-scattering-00838-14082022-scattering-improvements-in-game-atmo-generation-and-multi-sun-support/), v0.0838
-* [EVE Redux](https://forum.kerbalspaceprogram.com/index.php?/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022/), 1.11.7.1
-* [Distant Object Enancement](https://forum.kerbalspaceprogram.com/index.php?/topic/205063-ksp-131-distant-object-enhancement-doe-l-under-new-management-2119-2022-0727/), v2.1.1.9
-* [Planetshine](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-112x-planetshine-0266-feb-22-2022/), 0.2.6.6
 
 ## Requirements
 * [ModuleManager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-18x-112x-module-manager-422-june-18th-2022-the-heatwave-edition/), 4.2.2
 * [Kopernicus](https://forum.kerbalspaceprogram.com/index.php?/topic/200143-180-1123-kopernicus-stable-branch-last-updated-august-12th-2022/), 1.12.1-139
 * [Kopernicus Expansion EmissiveFX](https://forum.kerbalspaceprogram.com/index.php?/topic/195844-110-111-112-alpha-kopernicus-expansion-continued-er/), Beta 9 - 1.11
 * [Community Terrain Texture Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/165873-ksp-15x-community-terrain-textures-pack-104-25-oct-2018/), 1.0.4
+
+## Bundled Dependencies
+* [Niako's Kopernicus Utilities](https://forum.kerbalspaceprogram.com/index.php?/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/), 0.3
+* [Sigma Heat Shifter](https://github.com/Sigma88/Sigma-HeatShifter), v0.1.0
+
+## Provided Compatibility
+* [Scatterer](https://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip19x-112x-scatterer-atmospheric-scattering-00838-14082022-scattering-improvements-in-game-atmo-generation-and-multi-sun-support/), v0.0838
+* [EVE Redux](https://forum.kerbalspaceprogram.com/index.php?/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022/), 1.11.7.1
+* [Distant Object Enancement](https://forum.kerbalspaceprogram.com/index.php?/topic/205063-ksp-131-distant-object-enhancement-doe-l-under-new-management-2119-2022-0727/), v2.1.1.9
+* [Planetshine](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-112x-planetshine-0266-feb-22-2022/), 0.2.6.6
 
 ## Recommended Mods
 * [BetterKerbol](https://forum.kerbalspaceprogram.com/index.php?/topic/207389-112x-kopernicus-betterkerbol-v101-a-kerbol-graphics-enhancement/)
