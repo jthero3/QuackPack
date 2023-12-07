@@ -26,7 +26,6 @@ These planets are not for the faint of heart.  Transfer requirements are extreme
 * Remove any prexisting QuackPack installations (QuackPack folder within GameData folder in KSP directory)
 * Install ALL listed dependencies, following the links bellow
 * Download and extract the QuackPack zip file
-* Place the contents of the BundledMods folder into the GameData folder in your KSP directory
 * Place the GameData folder into your KSP directory
 
 ## Requirements
