@@ -10,10 +10,11 @@ These planets are not for the faint of heart.  Transfer requirements are extreme
 * Blas, a metal poor, scorching hot desert Superkerbin with a large ring system and one small moonlet.
 * Geet, the lone moon of Blas, and a shepherd to the ring system.
 * Jot, an inflated hot Jool with an extremely large atmosphere.
+* Subon, a captured metallic asteroid in a close retrograde orbit of Jot.
 * Cind, a Kerbin sized tidally locked hellworld, with an atmosphere made of sulfur and boiling metal.
 
 ## Features
-* 4 challenging new bodies to explore.
+* 5 challenging new bodies to explore.
 * Science and career mode ready, with full biome and experiment definitions.
 * Full scatterer integration.
 * Full EVE integration, with clouds, sandstorms, lightning, aurorae, and thermal glow.
@@ -23,30 +24,41 @@ These planets are not for the faint of heart.  Transfer requirements are extreme
 * This is my first planet mod, pls be gentle.
 
 ## Installation
-* Remove any prexisting QuackPack installations (QuackPack folder within GameData folder in KSP directory)
-* Install ALL listed dependencies, following the links bellow
+* Remove any preexisting QuackPack installations (QuackPack folder within GameData folder in KSP directory)
+* Install ALL listed dependencies, following the links below
 * Download and extract the QuackPack zip file
 * Place the GameData folder into your KSP directory
+* Highly recommended to download and install Scatterer, EVE REDUX, and BetterKerbol as they provide massive visual improvement, and QuackPack is intended to be played with all three installed.
 
 ## Requirements
-* [ModuleManager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-18x-112x-module-manager-422-june-18th-2022-the-heatwave-edition/), 4.2.2
-* [Kopernicus](https://forum.kerbalspaceprogram.com/index.php?/topic/200143-180-1123-kopernicus-stable-branch-last-updated-august-12th-2022/), 1.12.1-139
-* [Kopernicus Expansion EmissiveFX](https://forum.kerbalspaceprogram.com/index.php?/topic/195844-110-111-112-alpha-kopernicus-expansion-continued-er/), Beta 9 - 1.11
-* [Community Terrain Texture Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/165873-ksp-15x-community-terrain-textures-pack-104-25-oct-2018/), 1.0.4
+* [ModuleManager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-18x-112x-module-manager-422-june-18th-2022-the-heatwave-edition/)
+* [Kopernicus](https://forum.kerbalspaceprogram.com/index.php?/topic/200143-180-1123-kopernicus-stable-branch-last-updated-august-12th-2022/)
+* [Kopernicus Expansion EmissiveFX](https://forum.kerbalspaceprogram.com/index.php?/topic/195844-110-111-112-alpha-kopernicus-expansion-continued-er/)
+* [Community Terrain Texture Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/165873-ksp-15x-community-terrain-textures-pack-104-25-oct-2018/)
 
 ## Bundled Dependencies
-* [Niako's Kopernicus Utilities](https://forum.kerbalspaceprogram.com/index.php?/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/), 0.3
-* [Sigma Heat Shifter](https://github.com/Sigma88/Sigma-HeatShifter), v0.1.0
+* [Niako's Kopernicus Utilities](https://forum.kerbalspaceprogram.com/index.php?/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/)
+* [Sigma Heat Shifter](https://github.com/Sigma88/Sigma-HeatShifter)
 
 ## Provided Compatibility
-* [Scatterer](https://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip19x-112x-scatterer-atmospheric-scattering-00838-14082022-scattering-improvements-in-game-atmo-generation-and-multi-sun-support/), v0.0838
-* [EVE Redux](https://forum.kerbalspaceprogram.com/index.php?/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022/), 1.11.7.1
-* [Distant Object Enancement](https://forum.kerbalspaceprogram.com/index.php?/topic/205063-ksp-131-distant-object-enhancement-doe-l-under-new-management-2119-2022-0727/), v2.1.1.9
-* [Planetshine](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-112x-planetshine-0266-feb-22-2022/), 0.2.6.6
+* [Scatterer](https://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip19x-112x-scatterer-atmospheric-scattering-00838-14082022-scattering-improvements-in-game-atmo-generation-and-multi-sun-support/)
+* [EVE Redux](https://forum.kerbalspaceprogram.com/index.php?/topic/196411-19-112x-eve-redux-performance-enhanced-eve-maintenance-v11171-09092022/)
+* [Distant Object Enancement](https://forum.kerbalspaceprogram.com/index.php?/topic/205063-ksp-131-distant-object-enhancement-doe-l-under-new-management-2119-2022-0727/)
+* [Planetshine](https://forum.kerbalspaceprogram.com/index.php?/topic/173138-112x-planetshine-0266-feb-22-2022/)
 
 ## Recommended Mods
 * [BetterKerbol](https://forum.kerbalspaceprogram.com/index.php?/topic/207389-112x-kopernicus-betterkerbol-v101-a-kerbol-graphics-enhancement/)
 * [Outer Planets Mod](https://forum.kerbalspaceprogram.com/index.php?/topic/184789-131-112x-outer-planets-mod-v2210-3rd-jan-2022/)
+
+## FAQ
+* Q. Does QuackPack support Parallax 2?
+* A. QuackPack does not currently provide configs for Parallax 2, but it will run alongside Parallax 2 enabled planets from the stock system or other planet mods
+* Q. Will QuackPack ever support Parallax 2?
+* A. QuackPack is intended to support Parallax 2 at some point, when I have the time to sit down and learn it.
+* Q. Does QuackPack support EVE True Volumetrics?
+* A. EVE True Volumetrics support will come in a future update.
+* Q. Does QuackPack support rescaling via Sigma Dimensions?
+* A. Not at the moment, also something to consider for a future update.
 
 ## Licensing
 * QuackPack is licensed by Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0)
