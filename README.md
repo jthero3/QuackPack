@@ -17,7 +17,7 @@ These planets are not for the faint of heart.  Transfer requirements are extreme
 * 5 challenging new bodies to explore.
 * Science and career mode ready, with full biome and experiment definitions.
 * Full scatterer integration.
-* Full EVE integration, with clouds, sandstorms, lightning, aurorae, and thermal glow.
+* Full EVE integration, with clouds, sandstorms, lightning, and aurorae.
 * Planetshine and Distant Object Enhancement integration.
 
 ## Notes
@@ -33,12 +33,13 @@ These planets are not for the faint of heart.  Transfer requirements are extreme
 ## Requirements
 * [ModuleManager](https://forum.kerbalspaceprogram.com/index.php?/topic/50533-18x-112x-module-manager-422-june-18th-2022-the-heatwave-edition/)
 * [Kopernicus](https://forum.kerbalspaceprogram.com/index.php?/topic/200143-180-1123-kopernicus-stable-branch-last-updated-august-12th-2022/)
-* [Kopernicus Expansion EmissiveFX](https://forum.kerbalspaceprogram.com/index.php?/topic/195844-110-111-112-alpha-kopernicus-expansion-continued-er/)
 * [Community Terrain Texture Pack](https://forum.kerbalspaceprogram.com/index.php?/topic/165873-ksp-15x-community-terrain-textures-pack-104-25-oct-2018/)
 
 ## Bundled Dependencies
 * [Niako's Kopernicus Utilities](https://forum.kerbalspaceprogram.com/index.php?/topic/207768-112-niakos-kopernicus-utilities-smoother-heightmaps/)
 * [Sigma Heat Shifter](https://github.com/Sigma88/Sigma-HeatShifter)
+* [VertexHeightOblateAdvanced](https://forum.kerbalspaceprogram.com/topic/222923-1125-kopernicus-vertexheightoblateadvanced-112-easy-oblate-bodies/)
+* [VertexColorMapEmissive](https://forum.kerbalspaceprogram.com/topic/225111-1125-kopernicus-vertexcolormapemissive-100-easy-emissives/)
 
 ## Provided Compatibility
 * [Scatterer](https://forum.kerbalspaceprogram.com/index.php?/topic/103963-wip19x-112x-scatterer-atmospheric-scattering-00838-14082022-scattering-improvements-in-game-atmo-generation-and-multi-sun-support/)
@@ -57,8 +58,8 @@ These planets are not for the faint of heart.  Transfer requirements are extreme
 * A. QuackPack is intended to support Parallax 2 at some point, when I have the time to sit down and learn it.
 * Q. Does QuackPack support EVE True Volumetrics?
 * A. EVE True Volumetrics support will come in a future update.
-* Q. Does QuackPack support rescaling via Sigma Dimensions?
-* A. Not at the moment, also something to consider for a future update.
+* Q. Does QuackPack support rescaling either natively or via Sigma Dimensions?
+* A. QuackPack does not have native rescale support, but will function with rescales done via Sigma Dimensions. This means you can install QuackPack alongside other 1x scale mods, then rescale the whole thing with Sigma Dimensions, but QuackPack will not function correctly with mods like JNSQ, which have a native scale difference.
 
 ## Licensing
 * QuackPack is licensed by Attribution-NonCommercial-NoDerivs 3.0 Unported (CC BY-NC-ND 3.0)
